@@ -1,3 +1,4 @@
+![logo](https://github.com/Adityapratapsingh28/Adityapratapsingh28/blob/main/_Brown%20Gradient%20Product%20Manager%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate AI & ML engineer from India</h3>
 
