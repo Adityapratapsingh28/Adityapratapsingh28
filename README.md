@@ -102,13 +102,6 @@
 <div align="center">
   
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Adityapratapsingh28.Adityapratapsingh28)
-  
-</div>
 
 
-</div>
 
-<div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/af6d7fc3-84fc-4fb0-8dfe-7fc1d778baf2)
-" alt="Snake animation" />
-</div>
