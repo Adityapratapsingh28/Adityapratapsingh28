@@ -15,10 +15,6 @@
   <a href="[https://x.com/bellaonsky](https://www.instagram.com/aditya_singh282/?hl=en)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityapratapsingh28.Adityapratapsingh28" alt="visitors" />
-</div>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 <table align="center">
   <tr>
