@@ -39,14 +39,23 @@
   </tr>
 </table>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityapratapsingh28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityapratapsingh28&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="#">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Adityapratapsingh28&show_icons=true&bg_color=000000&title_color=0077B6&text_color=FFFFFF&icon_color=00B4D8&hide_border=true&count_private=true" />
+  </a>
+  <a href="#">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityapratapsingh28&background=000000&border=000000&stroke=0077B6&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077B6&sideLabels=0077B6&dates=FFFFFF" />
+  </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapratapsingh28&layout=compact&theme=tokyonight&hide_border=true" width="58%" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapratapsingh28&layout=compact&bg_color=000000&title_color=0077B6&text_color=FFFFFF&hide_border=true" />
 </div>
+<div align="center">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityapratapsingh28&theme=github_dark" />
+</div>
+<hr>
+
 
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
