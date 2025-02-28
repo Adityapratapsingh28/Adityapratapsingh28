@@ -12,6 +12,7 @@
   <a href="mailto:adityapratapsingh2803@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/bellaonsky"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="[https://x.com/bellaonsky](https://www.instagram.com/aditya_singh282/?hl=en)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 
 <div align="center">
