@@ -7,12 +7,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=From+Concept+to+Production+%7C+End-to-End+ML+Solutions;Turning+Data+into+Decision+Making+Power;Innovating+with+Deep+Learning+%26+Generative+Models" alt="Subheader Typing SVG" />
   </p>
 </div>
-<h2 align="center">🤝 Let's Connect!</h2>
+<h2 align="center">🤝Let's Connect!</h2>
 <div align="center">
   <a href="mailto:adityapratapsingh2803@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/bellaonsky"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.youtube.com/@Aditya-hb8eo"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </div>
 
 <div align="center">
