@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Aditya+%7C+AI%2FML+Engineer;🚀+Building+Intelligent+Systems+with+Generative+AI;⚡+MLOps+%7C+Cloud+Architecture+%7C+Full+Cycle+Development" alt="Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Aditya+%7C+AI%2FML+Engineer;🚀+Building+Intelligent+Systems+with+Generative+AI;⚡+MLOps+%7C+Cloud+Architecture+%7C+Full+Cycle+Development"/>
 </h1>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR3Nm13NXk0cW5remJkaHcyNGN1ZnZud3kzYXE2b3N5cm12ZG9zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" />
