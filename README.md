@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Aditya+%7C+AI%2FML+Engineer;🚀+Building+Intelligent+Systems+with+Generative+AI;⚡+MLOps+%7C+Cloud+Architecture+%7C+Full+Cycle+Development"/>
+  Aditya Pratap Singh
 </h1>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR3Nm13NXk0cW5remJkaHcyNGN1ZnZud3kzYXE2b3N5cm12ZG9zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" />
@@ -81,8 +81,16 @@
 
 
 <!-- Footer Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!; Let's+build+something+amazing+together!" alt="Footer Message" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer&animation=twinkling" width="100%"/>
+<!-- Custom Footer (No External Resources) -->
+<div align="center" style="padding: 30px 0; background-color: #001f3f; color: #20C997; font-family: 'Fira Code', monospace;">
+  <h2 style="margin: 0;">Thanks for scrolling! You're awesome! 💚</h2>
+  <p style="margin: 5px 0 20px;">Keep innovating with AI & Tech 🚀</p>
+  <div style="height: 5px; width: 100%; background: linear-gradient(90deg, #0077B6, #00B4D8, #0077B6); animation: wave 3s infinite;"></div>
 </div>
+<img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer&animation=twinkling" 
+    width="100%" 
+    alt="Footer Wave Animation" 
+  />
+</div>
+
